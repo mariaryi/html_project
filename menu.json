@@ -5,7 +5,8 @@
   "vendor_code": "111",
   "description": "Печенье на основе песочного теста с добавлением молочного бельгийского шоколада и М&М с орехами.",
   "price": 250,
-  "img": "final_project_1/photos/4.jpg"
+  "img": "final_project_1/photos/4.jpg",
+  "amount": "Количество"
 },
 {
   "id": "2",
@@ -13,7 +14,8 @@
   "vendor_code": "222",
   "description": "Круг из слоёного теста с большим количеством крема или конфитюра внутри.",
   "price": 400,
-  "img": "final_project_1/photos/6.jpg"
+  "img": "final_project_1/photos/6.jpg",
+  "amount": "Количество"
 },
 {
   "id": "3",
@@ -21,7 +23,8 @@
   "vendor_code": "333",
   "description": "Мягкие и ароматные витые булочки с корицей, покрытые липкой сахарной глазурью.",
   "price": 550,
-  "img": "final_project_1/photos/5.jpg"
+  "img": "final_project_1/photos/5.jpg",
+  "amount": "Количество"
 },
 {
   "id": "4",
@@ -29,7 +32,8 @@
   "vendor_code": "444e",
   "description": "Десерт, состоящий из густой кремообразной начинки из сыра, яиц и сахара на тонком тесте, украшенный сладкими или иногда солеными ингредиентами.",
   "price": 500,
-  "img": "final_project_1/photos/7.jpg"
+  "img": "final_project_1/photos/7.jpg",
+  "amount": "Количество"
 },
 {
   "id": "5",
@@ -37,7 +41,8 @@
   "vendor_code": "4445e",
   "description": "Выпечка в виде сложенной пополам лепёшки с полуоткрытой или закрытой начинкой.",
   "price": 300,
-  "img": "final_project_1/photos/8.jpg"
+  "img": "final_project_1/photos/8.jpg",
+  "amount": "Количество"
 },
 {
   "id": "6",
@@ -45,6 +50,7 @@
   "vendor_code": "4446e",
   "description": "Немецкий крендель претцель, он же брецель - любимое лакомство розовощеких бургеров на Октоберфесте и не только.",
   "price": 400,
-  "img": "final_project_1/photos/14.jpg"
+  "img": "final_project_1/photos/14.jpg",
+  "amount": "Количество"
 }    
 ]

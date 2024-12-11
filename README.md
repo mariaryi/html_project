@@ -2,4 +2,4 @@
 ## Ссылка на репозиторий: https://github.com/mariaryi/html_project/tree/main
 ### Контрольная работа 1: https://mariaryi.github.io/html_project/final_project_1/boulangerie.html
 ### Второстепенные задания: https://mariaryi.github.io/html_project/passport/task_1.html
-### Тест: https://mariaryi.github.io/html_project/menu.html
+### Контрольная работа 1: https://mariaryi.github.io/html_project/boulangerie.html

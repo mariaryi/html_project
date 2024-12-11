@@ -1,0 +1,101 @@
+html {
+    margin: 1em;
+    font-size: 17px; /* px значит 'пиксели': базовый шрифт будет 10 пикселей в высоту  */
+    font-family: system-ui;
+    
+}
+head {
+    color: bisque;
+}
+h1 {
+    font-size: 40px;
+    text-align: center;
+    color: #8E402A;
+}
+h2 {
+    font-size: 30px;
+    text-align: center;
+    color: #93000f;
+}
+h3 {
+    font-size: 20px;
+    text-align: left;
+    color: #93000f;
+}
+blockquote {
+    text-align: center;
+    font-style: italic;
+    color: rgb(165, 42, 42)
+}
+pre {
+    text-align: right;
+    font-style: italic;
+    color: rgb(130, 40, 40)
+}
+body {
+    margin: auto 40px auto 40px;
+    background-color: #ac3636;
+}
+li {
+    text-align: left;
+    flex: 1;
+}
+p {
+    color: brown;
+    text-align: justify;
+}
+.li-f {
+    font-weight: bold;
+}
+.goback {
+    text-align: right;
+}
+.navigation {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width: auto;
+    background-color: #e79595;
+    border: 5px solid #630707;
+    overflow: hidden;
+    text-align: center;
+    align-items: center;
+    justify-content: space-around;
+}
+.nav {
+    display: block;
+    padding: 8px;
+    color: #871c1c;
+    float: left;
+    font-weight: bold;
+}
+.container {
+    width: 80%; /* Ширина контейнера */
+    max-width: 1200px; /* Максимальная ширина */
+    margin: 0 auto; /* Центрирование контейнера */
+    padding: 20px; /* Внутренние отступы */
+    background-color: #F3C4A8; /* Фоновый цвет */
+    border: 10px solid #844545; /* Граница */
+    border-radius: 10px; /* Скругление углов */
+    /*box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Тень */
+}
+header {
+    background-image: url('photos/13.jpg');
+    background-repeat: repeat;
+    background-size: 125px;
+    position: relative;
+    width: 89%;
+    height: 29vh;
+    left: 5%;
+    border-radius: 10px;
+}
+.fon {
+    /*max-width: 500px;*/
+    background-color: #e79595;
+    position: absolute;
+    width: 50%;
+    height: 85%;
+    top: 8%;
+    left: 25%;
+    border-radius: 10px;
+}
